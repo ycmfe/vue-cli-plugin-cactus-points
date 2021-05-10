@@ -1,6 +1,6 @@
 {
   "name": "@ycmfe/vue-cli-plugin-cactus-points",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cactus points plugin",
   "files": [
     "index.js",
