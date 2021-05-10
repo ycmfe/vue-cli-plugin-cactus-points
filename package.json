@@ -22,9 +22,6 @@
   },
   "author": "zhang",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "prettier": "^2.2.1"
   }
