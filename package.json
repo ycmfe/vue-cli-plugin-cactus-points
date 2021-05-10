@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/ycmfe/vue-cli-plugin-cactus-points.git"
   },
-  "homepage": "https://github.com/ycmfe/vue-cli-plugin-cactus-points.git#readme",
+  "homepage": "https://github.com/ycmfe/vue-cli-plugin-cactus-points/blob/main/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
