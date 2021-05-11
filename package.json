@@ -23,6 +23,7 @@
   "author": "zhang",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^15.0.2",
     "prettier": "^2.2.1"
   }
 }

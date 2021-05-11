@@ -4,7 +4,7 @@ module.exports = (api, options) => {
       '@guanghe-pub/onion-points': '1.0.5',
     },
     scripts: {
-      point: "node points.js"
+      point: "node points.ts"
     }
   })
 
